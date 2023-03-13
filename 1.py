@@ -1,4 +1,4 @@
-# 0 Level "두 수의 차"
+# 0 Level : "두 수의 차"
 
 def solution(num1, num2): 
     answer = 0
