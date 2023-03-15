@@ -6,3 +6,6 @@ def solution(my_string, letter): # 문자열도 리스트랑 똑같다.
         if i != letter: # letter과 같지 않은 문자는 빈 문자열인 answer에 넣는다.
             answer += i
     return answer
+
+
+# 해설 : https://www.youtube.com/watch?v=oDzdfbIubys
