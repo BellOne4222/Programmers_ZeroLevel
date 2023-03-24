@@ -1,12 +1,7 @@
-# def solution(array):
-#     array.sort()
-#     middle = round(len(array)/2)
-#     answer = array[middle]
-#     return answer
+# 중앙값 구하기
 
-array = [9, -1, 0]
-array.sort()
-print(array)
-middle = int(len(array)/2)
-print(middle)
-print(array[middle])
+def solution(array):
+    array.sort()
+    middle = int(len(array)/2)
+    answer = array[middle]
+    return answer

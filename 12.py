@@ -11,4 +11,4 @@ def solution(n):
 
 print(solution(7))
 print(solution(1))
-print(solution(64))
+print(solution(15))
